@@ -1,0 +1,17 @@
+export const ALL_USERS = 'http://127.0.0.1:8000/api/all-users/'
+export const TOGGLE_FRIENDSHIP = 'http://127.0.0.1:8000/api/frd-list/'
+export const LOGIN_PATH = 'http://127.0.0.1:8000/api/login/'
+export const NEW_USER = 'http://127.0.0.1:8000/api/register/'
+export const GET_USER_DETAILS = 'http://127.0.0.1:8000/api/user-details/'
+export const UPDATE_USER = 'http://127.0.0.1:8000/api/update-user/'
+export const POST_PATH = 'http://127.0.0.1:8000/api/posts/'
+export const HOMEPAGE = 'http://127.0.0.1:8000/api/homepage/'
+export const MY_FRIENDS = 'http://127.0.0.1:8000/api/my-frnds/'
+export const TOGGLE_LIKE = 'http://127.0.0.1:8000/api/toggle-like/'
+export const POST_DETAILS = 'http://127.0.0.1:8000/api/post-detail/'
+export const ADD_COMMENT = 'http://127.0.0.1:8000/api/add-comment/'
+export const DELETE_COMMENT = 'http://127.0.0.1:8000/api/delete-comment/'
+
+export const MY_POST = 'http://127.0.0.1:8000/api/get-my-post/'
+export const DELETE_MY_POST = 'http://127.0.0.1:8000/api/delete-my-post/'
+
